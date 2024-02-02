@@ -35,7 +35,7 @@ python -m pip install -r requirements.txt
 
 
 ### Files
-The codes are located in 3 files. The first 2 files are mainlyinherited from the work of another research group, here I have attached the github link to their project : https://github.com/AF-Cabouat/Wikipedia-Block-log
+The codes are located in 3 files. The first 2 files are mainly inherited from the work of another research group, here I have attached the github link to their project : https://github.com/AF-Cabouat/Wikipedia-Block-log
 
 1 Fetch_Block_Log_data.ipynb It does:
 - Data scrapping
@@ -57,6 +57,7 @@ The data could be found in the "data_original" folder. The folder contains:
 - Blocking rationales dropdown menu tags creation timeline.xlsx
 - freq_policies_monthly.csv
 - MonthlyEditAndEditorsFrom2004-2017.csv
+
 It is worth noting that , due to the limitation of the size of uploading files, we have not managed to include scrapped data done by the previous group and scrapped data done by our group inside.
 But you can find these two files, "block_log_data_old.csv" and "block_log_data_new.csv" in the Google drive link we provide below.
 
