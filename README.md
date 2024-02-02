@@ -1,4 +1,4 @@
-# github project 2024-02-02
+# Open Science project 2024-02-02
 This is an Open Sceince project about Wikipedia.
 
 ## Requirements
