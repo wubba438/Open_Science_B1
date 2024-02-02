@@ -1,0 +1,424 @@
+,year,tag,action
+0,2005,attack,341
+1,2005,citing,1
+2,2005,copyright,30
+3,2005,disruptive editing,1
+4,2005,edit warring,26
+5,2005,evasion,102
+6,2005,harassment,31
+7,2005,legal threats,30
+8,2005,multiple accounts,3
+9,2005,no legal threats,1
+10,2005,patent,2
+11,2005,promotion,5
+12,2005,sockpuppetry,69
+13,2005,spam,656
+14,2005,three-revert,24
+15,2005,vandalism,9824
+16,2005,{{blocked proxy}},2126
+17,2006,advertising,116
+18,2006,arbitration,288
+19,2006,attack,4440
+20,2006,biographies,4
+21,2006,citing,4
+22,2006,copyright,792
+23,2006,disruptive editing,48
+24,2006,edit warring,524
+25,2006,evasion,552
+26,2006,harassment,172
+27,2006,legal threats,324
+28,2006,long-term abuse,8
+29,2006,multiple accounts,24
+30,2006,no legal threats,24
+31,2006,patent,16
+32,2006,promotion,32
+33,2006,sockpuppetry,492
+34,2006,spam,7536
+35,2006,three-revert,60
+36,2006,vandalism,157936
+37,2006,{{anonblock}},112
+38,2006,{{blocked proxy}},7704
+39,2006,{{school block}},356
+40,2006,{{tor}},2016
+41,2007,advertising,996
+42,2007,arbitration,604
+43,2007,attack,9516
+44,2007,biographies,32
+45,2007,citing,28
+46,2007,copyright,3080
+47,2007,disruptive editing,648
+48,2007,edit warring,3276
+49,2007,evasion,2416
+50,2007,harassment,2460
+51,2007,legal threats,736
+52,2007,multiple accounts,19240
+53,2007,no legal threats,48
+54,2007,patent,832
+55,2007,promotion,2952
+56,2007,sockpuppetry,1540
+57,2007,spam,24652
+58,2007,three-revert,4276
+59,2007,vandalism,472696
+60,2007,{{anonblock}},9980
+61,2007,{{blocked proxy}},26472
+62,2007,{{checkuser block}},48
+63,2007,{{checkuserblock-account}},48
+64,2007,{{rangeblock}},36
+65,2007,{{school block}},4084
+66,2007,{{tor}},2732
+67,2007,{{uw-ublock}},1008
+68,2007,{{uw-uhblock}},76
+69,2008,advertising,271
+70,2008,arbitration,664
+71,2008,attack,11985
+72,2008,biographies,23
+73,2008,citing,12
+74,2008,copyright,1205
+75,2008,disruptive editing,14466
+76,2008,edit warring,10749
+77,2008,evasion,10969
+78,2008,harassment,3886
+79,2008,legal threats,480
+80,2008,long-term abuse,12
+81,2008,multiple accounts,8551
+82,2008,no legal threats,208
+83,2008,nothere,4
+84,2008,patent,2511
+85,2008,promotion,3259
+86,2008,sockpuppetry,731
+87,2008,spam,31516
+88,2008,three-revert,52
+89,2008,vandalism,389042
+90,2008,{{anonblock}},17826
+91,2008,{{blocked proxy}},40485
+92,2008,{{checkuserblock-account}},24
+93,2008,{{rangeblock}},4
+94,2008,{{school block}},116
+95,2008,{{tor}},8965
+96,2008,{{uw-ublock}},598
+97,2008,{{uw-uhblock}},194
+98,2008,{{uw-vaublock}},176
+99,2009,advertising,156
+100,2009,arbitration,346
+101,2009,attack,8170
+102,2009,biographies,722
+103,2009,citing,4
+104,2009,copyright,1056
+105,2009,disruptive editing,7616
+106,2009,edit filter,720
+107,2009,edit warring,4360
+108,2009,evasion,7656
+109,2009,harassment,104
+110,2009,legal threats,36
+111,2009,long-term abuse,858
+112,2009,multiple accounts,32290
+113,2009,no legal threats,468
+114,2009,patent,394
+115,2009,promotion,420
+116,2009,sockpuppetry,254
+117,2009,spam,31580
+118,2009,three-revert,2
+119,2009,vandalism,134814
+120,2009,{{anonblock}},8484
+121,2009,{{blocked proxy}},196458
+122,2009,{{checkuserblock-account}},46
+123,2009,{{tor}},2428
+124,2009,{{uw-softerblock}},1898
+125,2009,{{uw-ublock}},5696
+126,2009,{{uw-uhblock}},864
+127,2009,{{uw-vaublock}},440
+128,2010,advertising,136
+129,2010,arbitration,202
+130,2010,attack,5472
+131,2010,biographies,2236
+132,2010,citing,4
+133,2010,copyright,678
+134,2010,disruptive editing,5226
+135,2010,edit filter,624
+136,2010,edit warring,2020
+137,2010,evasion,6588
+138,2010,harassment,80
+139,2010,legal threats,6
+140,2010,long-term abuse,2490
+141,2010,multiple accounts,18298
+142,2010,no legal threats,246
+143,2010,patent,2
+144,2010,promotion,72
+145,2010,sockpuppetry,62
+146,2010,spam,19844
+147,2010,three-revert,322
+148,2010,vandalism,74294
+149,2010,{{anonblock}},4346
+150,2010,{{blocked proxy}},137494
+151,2010,{{checkuserblock-account}},44
+152,2010,{{tor}},1966
+153,2010,{{uw-softerblock}},4272
+154,2010,{{uw-ublock}},3536
+155,2010,{{uw-uhblock-double}},2
+156,2010,{{uw-uhblock}},362
+157,2010,{{uw-vaublock}},176
+158,2011,advertising,84
+159,2011,arbitration,113
+160,2011,attack,2697
+161,2011,biographies,1312
+162,2011,citing,3
+163,2011,copyright,457
+164,2011,disruptive editing,3253
+165,2011,edit filter,559
+166,2011,edit warring,1281
+167,2011,evasion,3869
+168,2011,harassment,48
+169,2011,legal threats,8
+170,2011,long-term abuse,127
+171,2011,multiple accounts,11560
+172,2011,no legal threats,147
+173,2011,patent,1
+174,2011,promotion,752
+175,2011,sockpuppetry,33
+176,2011,spam,13622
+177,2011,three-revert,339
+178,2011,vandalism,35494
+179,2011,{{anonblock}},3519
+180,2011,{{blocked proxy}},186526
+181,2011,{{checkuser block}},1
+182,2011,{{checkuserblock-account}},2
+183,2011,{{rangeblock}},1
+184,2011,{{tor}},14043
+185,2011,{{uw-causeblock}},138
+186,2011,{{uw-softerblock}},1694
+187,2011,{{uw-ublock-double}},1
+188,2011,{{uw-ublock}},210
+189,2011,{{uw-uhblock}},160
+190,2011,{{uw-vaublock}},100
+191,2012,advertising,67
+192,2012,arbitration,85
+193,2012,attack,1803
+194,2012,biographies,1089
+195,2012,citing,1
+196,2012,copyright,375
+197,2012,disruptive editing,3559
+198,2012,edit filter,740
+199,2012,edit warring,1191
+200,2012,evasion,3000
+201,2012,harassment,53
+202,2012,legal threats,5
+203,2012,long-term abuse,111
+204,2012,multiple accounts,8732
+205,2012,no legal threats,156
+206,2012,nothere,5
+207,2012,patent,2
+208,2012,promotion,1216
+209,2012,sockpuppetry,35
+210,2012,spam,16836
+211,2012,three-revert,269
+212,2012,vandalism,27702
+213,2012,{{anonblock}},5549
+214,2012,{{blocked proxy}},181006
+215,2012,{{checkuserblock-account}},1002
+216,2012,{{tor}},9977
+217,2012,{{uw-causeblock}},224
+218,2012,{{uw-softerblock}},2630
+219,2012,{{uw-ublock}},594
+220,2012,{{uw-uhblock}},354
+221,2012,{{uw-vaublock}},203
+222,2012,{{webhostblock}},53
+223,2013,advertising,128
+224,2013,arbitration,79
+225,2013,attack,1138
+226,2013,biographies,725
+227,2013,citing,5
+228,2013,copyright,323
+229,2013,disruptive editing,2983
+230,2013,edit filter,191
+231,2013,edit warring,1088
+232,2013,evasion,2927
+233,2013,harassment,40
+234,2013,legal threats,3
+235,2013,long-term abuse,147
+236,2013,multiple accounts,7903
+237,2013,no legal threats,97
+238,2013,nothere,179
+239,2013,patent,2
+240,2013,promotion,931
+241,2013,sockpuppetry,26
+242,2013,spam,23928
+243,2013,three-revert,286
+244,2013,vandalism,24554
+245,2013,{{anonblock}},6989
+246,2013,{{blocked proxy}},464854
+247,2013,{{checkuser block}},4
+248,2013,{{checkuserblock-account}},3621
+249,2013,{{colocationwebhost}},65
+250,2013,{{oversightblock}},11
+251,2013,{{school block}},4
+252,2013,{{tor}},192
+253,2013,{{uw-causeblock}},245
+254,2013,{{uw-softerblock}},4061
+255,2013,{{uw-ublock}},1448
+256,2013,{{uw-uhblock-double}},1
+257,2013,{{uw-uhblock}},625
+258,2013,{{uw-vaublock}},480
+259,2013,{{webhostblock}},372
+260,2014,advertising,198
+261,2014,arbitration,69
+262,2014,attack,899
+263,2014,biographies,734
+264,2014,citing,76
+265,2014,copyright,315
+266,2014,disruptive editing,2949
+267,2014,edit filter,532
+268,2014,edit warring,996
+269,2014,evasion,3716
+270,2014,harassment,52
+271,2014,legal threats,7
+272,2014,long-term abuse,67
+273,2014,multiple accounts,6703
+274,2014,no legal threats,116
+275,2014,notadvertising,2
+276,2014,nothere,1894
+277,2014,patent,105
+278,2014,promotion,957
+279,2014,sockpuppetry,67
+280,2014,spam,21378
+281,2014,three-revert,320
+282,2014,vandalism,19881
+283,2014,{{anonblock}},10188
+284,2014,{{blocked proxy}},123978
+285,2014,{{checkuser block}},2
+286,2014,{{checkuserblock-account}},2489
+287,2014,{{checkuserblock-wide}},9
+288,2014,{{colocationwebhost}},37
+289,2014,{{oversightblock}},21
+290,2014,{{rangeblock}},8
+291,2014,{{tor}},17
+292,2014,{{uw-causeblock}},196
+293,2014,{{uw-softerblock}},3012
+294,2014,{{uw-ublock-double}},1
+295,2014,{{uw-ublock}},997
+296,2014,{{uw-uhblock-double}},2
+297,2014,{{uw-uhblock}},1141
+298,2014,{{uw-vaublock}},816
+299,2014,{{webhostblock}},410
+300,2015,advertising,169
+301,2015,arbitration,99
+302,2015,attack,1783
+303,2015,biographies,1132
+304,2015,citing,528
+305,2015,copyright,389
+306,2015,disruptive editing,4954
+307,2015,edit filter,223
+308,2015,edit warring,1342
+309,2015,evasion,5787
+310,2015,harassment,80
+311,2015,legal threats,15
+312,2015,long-term abuse,1151
+313,2015,multiple accounts,8291
+314,2015,no legal threats,127
+315,2015,notadvertising,2
+316,2015,nothere,1977
+317,2015,patent,189
+318,2015,promotion,3648
+319,2015,sockpuppetry,26
+320,2015,spam,23035
+321,2015,three-revert,344
+322,2015,vandalism,28624
+323,2015,{{anonblock}},12844
+324,2015,{{blocked proxy}},372670
+325,2015,{{checkuser block}},817
+326,2015,{{checkuserblock-account}},6557
+327,2015,{{checkuserblock-wide}},90
+328,2015,{{colocationwebhost}},117
+329,2015,{{oversightblock}},27
+330,2015,{{rangeblock}},99
+331,2015,{{school block}},13413
+332,2015,{{tor}},15
+333,2015,{{uw-causeblock}},339
+334,2015,{{uw-softerblock}},3508
+335,2015,{{uw-ublock-double}},35
+336,2015,{{uw-ublock}},2168
+337,2015,{{uw-uhblock-double}},16
+338,2015,{{uw-uhblock}},2896
+339,2015,{{uw-vaublock}},756
+340,2015,{{webhostblock}},758
+341,2016,advertising,203
+342,2016,arbitration,123
+343,2016,attack,1458
+344,2016,biographies,960
+345,2016,citing,1284
+346,2016,copyright,450
+347,2016,disruptive editing,6392
+348,2016,edit filter,387
+349,2016,edit warring,1016
+350,2016,evasion,6836
+351,2016,harassment,79
+352,2016,legal threats,7
+353,2016,long-term abuse,1425
+354,2016,multiple accounts,9307
+355,2016,no legal threats,129
+356,2016,notadvertising,1
+357,2016,nothere,2630
+358,2016,patent,207
+359,2016,promotion,4676
+360,2016,sockpuppetry,62
+361,2016,spam,22045
+362,2016,three-revert,178
+363,2016,vandalism,30405
+364,2016,{{anonblock}},11818
+365,2016,{{blocked proxy}},317471
+366,2016,{{checkuser block}},888
+367,2016,{{checkuserblock-account}},7612
+368,2016,{{checkuserblock-wide}},132
+369,2016,{{colocationwebhost}},131
+370,2016,{{oversightblock}},46
+371,2016,{{rangeblock}},109
+372,2016,{{school block}},14861
+373,2016,{{tor}},24
+374,2016,{{uw-causeblock}},312
+375,2016,{{uw-softerblock}},1290
+376,2016,{{uw-ublock-double}},86
+377,2016,{{uw-ublock}},2351
+378,2016,{{uw-uhblock-double}},1
+379,2016,{{uw-uhblock}},2750
+380,2016,{{uw-vaublock}},248
+381,2016,{{webhostblock}},434
+382,2017,advertising,154
+383,2017,arbitration,72
+384,2017,attack,1558
+385,2017,biographies,977
+386,2017,citing,1129
+387,2017,copyright,379
+388,2017,disruptive editing,6086
+389,2017,edit filter,8301
+390,2017,edit warring,994
+391,2017,evasion,6003
+392,2017,harassment,57
+393,2017,legal threats,7
+394,2017,long-term abuse,2139
+395,2017,multiple accounts,10701
+396,2017,no legal threats,137
+397,2017,notadvertising,4
+398,2017,nothere,3084
+399,2017,patent,235
+400,2017,promotion,4921
+401,2017,sockpuppetry,41
+402,2017,spam,18394
+403,2017,three-revert,249
+404,2017,vandalism,39350
+405,2017,{{anonblock}},10958
+406,2017,{{blocked proxy}},573658
+407,2017,{{checkuser block}},1156
+408,2017,{{checkuserblock-account}},6076
+409,2017,{{checkuserblock-wide}},111
+410,2017,{{colocationwebhost}},1255
+411,2017,{{oversightblock}},31
+412,2017,{{rangeblock}},129
+413,2017,{{school block}},14180
+414,2017,{{tor}},7
+415,2017,{{uw-causeblock}},275
+416,2017,{{uw-softerblock}},1695
+417,2017,{{uw-ublock-double}},83
+418,2017,{{uw-ublock}},2342
+419,2017,{{uw-uhblock-double}},19
+420,2017,{{uw-uhblock}},2517
+421,2017,{{uw-vaublock}},192
+422,2017,{{webhostblock}},542
