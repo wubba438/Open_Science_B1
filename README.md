@@ -10,7 +10,7 @@ Clone the repository :
 
 ```bash
 git clone git@github.com:wubba438/Open_Science_B1.git
-cd data_science_project
+cd Open_Science_B1
 ```
 
 Create and activate a virtual envirnment :
