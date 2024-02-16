@@ -1,5 +1,6 @@
 # Open Science project 2024-02-02
-This is an Open Sceince project about Wikipedia.
+This is an Open Sceince project about Wikipedia. If you want to use available scrapped data, download the folder "back_up" from our shared google drive https://drive.google.com/drive/folders/0AHoFsmLXOb3AUk9PVA, following every step in the Installation section except the first step "Clone the repository".
+Else, If you want to use our codes to scrap the data yourself, please take all the following steps. 
 
 ## Requirements
 
