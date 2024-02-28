@@ -1,6 +1,6 @@
 # Open Science project 2024-02-02
 This is an Open Science project about Wikipedia. 
-There are 2 ways of accessing our data and codes. One is through the google drive [https://drive.google.com/drive/u/0/folders/0AKbFqUUL3ncfUk9PVA] (1). The other is through github [https://github.com/wubba438/Open_Science_B1] (2).
+There are 2 ways of accessing our data and codes. One is through the [google drive](https://drive.google.com/drive/u/0/folders/0AKbFqUUL3ncfUk9PVA) (1). The other is through github [https://github.com/wubba438/Open_Science_B1] (2).
 It is worth noting that , due to the limitation of the size of uploading files, we have not managed to include scrapped data done by the previous group and scrapped data done by our group inside our github repository.
 But you can find these two files, "block_log_data_old.csv" and "block_log_data_new.csv" in the Google drive link we provide below.
 
