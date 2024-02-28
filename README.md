@@ -1,6 +1,6 @@
 # Open Science project 2024-02-02
 This is an Open Science project about Wikipedia. 
-There are 2 ways of accessing our data and codes. One is through the [google drive](https://drive.google.com/drive/u/0/folders/0AKbFqUUL3ncfUk9PVA) (1). The other is through github [https://github.com/wubba438/Open_Science_B1] (2).
+There are 2 ways of accessing our data and codes. One is through the [google drive](https://drive.google.com/drive/u/0/folders/0AKbFqUUL3ncfUk9PVA) (1). The other is through [github] (https://github.com/wubba438/Open_Science_B1) (2).
 It is worth noting that , due to the limitation of the size of uploading files, we have not managed to include scrapped data done by the previous group and scrapped data done by our group inside our github repository.
 But you can find these two files, "block_log_data_old.csv" and "block_log_data_new.csv" in the Google drive link we provide below.
 
@@ -9,7 +9,7 @@ Please download the folder "Open_Science_B1_Wikipedia" from our shared google dr
 The introduction to the structure of the folder is present below. 
 
 Introduction to the Open_Science_B1_Wikipedia folder
-The codes are located in 3 files. The first 2 files are mainly inherited from the work of another research group, here I have attached the github link to their project : https://github.com/AF-Cabouat/Wikipedia-Block-log
+The codes are located in 3 files. The first 2 files are mainly inherited from the work of another research group, here I have attached the github link to their [Wikipedia project] (https://github.com/AF-Cabouat/Wikipedia-Block-log)
 
 1 Fetch_Block_Log_data.ipynb It does:
 - Data scrapping
