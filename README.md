@@ -12,7 +12,7 @@ Introduction to the Open_Science_B1_Wikipedia folder
 
 If you want to have a basic idea of our project, you are invited to have a look at these two documents:
 1 OS_poster_Wikipedia_A0.pdf
-2 Open_Science_B1_Summary_Wikipedia.pdf
+2 Wikipedia_Summary_Open_Science_B1.pdf
 
 As for the codes, they are located in 3 files. The first 2 files are mainly inherited from the work of another research group, here I have attached the github link to their [Wikipedia project](https://github.com/AF-Cabouat/Wikipedia-Block-log)
 
@@ -89,7 +89,7 @@ python -m pip install -r requirements.txt
 ### Files
 If you want to have a basic idea of our project, you are invited to have a look at these two documents:
 1 OS_poster_Wikipedia_A0.pdf
-2 Open_Science_B1_Summary_Wikipedia.pdf
+2 Wikipedia_Summary_Open_Science_B1.pdf
 
 As for the codes, they are located in 3 files.  The first 2 files are mainly inherited from the work of another research group,  here I have attached the github link to their [Wikipedia project](https://github.com/AF-Cabouat/Wikipedia-Block-log)
 
