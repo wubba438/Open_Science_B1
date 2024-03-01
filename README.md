@@ -1,15 +1,20 @@
 # Open Science project 2024-02-02
 This is an Open Science project about Wikipedia. 
-There are 2 ways of accessing our data and codes. One is through the [google drive](https://drive.google.com/drive/u/0/folders/0AKbFqUUL3ncfUk9PVA) (1). The other is through [github](https://github.com/wubba438/Open_Science_B1) (2).
+There are 2 ways of accessing our data and codes. One is through the [google drive](https://drive.google.com/drive/folders/1YF57P7z8VN4BntVJtx1WWHr5HYHbdING?usp=drive_link) (with reference to section1 Google Drive Link). The other is through [github](https://github.com/wubba438/Open_Science_B1) (with reference to section2 Github Repository).
 It is worth noting that , due to the limitation of the size of uploading files, we have not managed to include scrapped data done by the previous group and scrapped data done by our group inside our github repository.
-But you can find these two files, "block_log_data_old.csv" and "block_log_data_new.csv" in the Google drive link we provide below.
+But you can find these two files, "block_log_data_old.csv" and "block_log_data_new.csv" in the Google drive folder.
 
 ## 1. Google Drive Link
 Please download the folder "Open_Science_B1_Wikipedia" from our shared google drive
 The introduction to the structure of the folder is present below. 
 
 Introduction to the Open_Science_B1_Wikipedia folder
-The codes are located in 3 files. The first 2 files are mainly inherited from the work of another research group, here I have attached the github link to their [Wikipedia project](https://github.com/AF-Cabouat/Wikipedia-Block-log)
+
+If you want to have a basic idea of our project, you are invited to have a look at these two documents:
+1 OS_poster_Wikipedia_A0.pdf
+2 Open_Science_B1_Summary_Wikipedia.pdf
+
+As for the codes, they are located in 3 files. The first 2 files are mainly inherited from the work of another research group, here I have attached the github link to their [Wikipedia project](https://github.com/AF-Cabouat/Wikipedia-Block-log)
 
 1 Fetch_Block_Log_data.ipynb It does:
 - Data scrapping
@@ -26,11 +31,13 @@ The codes are located in 3 files. The first 2 files are mainly inherited from th
 - Data cleaning
 - Data analysis(mainly about the bot administrators)
 
-The data to use (all data before our analysis) could be found in the "data_original" folder. The folder contains:
-1 Blocking policy-related pages creation timeline on English Wikipedia.xlsx
-2 Blocking rationales dropdown menu tags creation timeline.xlsx
-3 freq_policies_monthly.csv
-4 MonthlyEditAndEditorsFrom2004-2017.csv
+The data to use (all data used for our analysis) could be found in the "data_original" folder. The folder contains:
+1 block_log_data_new.csv : scrapped data done by our group
+2 block_log_data_old.csv : scrapped data done by the previous group
+3.Blocking policy-related pages creation timeline on English Wikipedia.xlsx
+4 Blocking rationales dropdown menu tags creation timeline.xlsx
+5 freq_policies_monthly.csv
+6 MonthlyEditAndEditorsFrom2004-2017.csv
 
 Other folders
 1 Data_results : all outputs we generated with the analyzing notebook
@@ -80,7 +87,11 @@ python -m pip install -r requirements.txt
 
 
 ### Files
-The codes are located in 3 files. The first 2 files are mainly inherited from the work of another research group, here I have attached the github link to their project : https://github.com/AF-Cabouat/Wikipedia-Block-log
+If you want to have a basic idea of our project, you are invited to have a look at these two documents:
+1 OS_poster_Wikipedia_A0.pdf
+2 Open_Science_B1_Summary_Wikipedia.pdf
+
+As for the codes, they are located in 3 files.  The first 2 files are mainly inherited from the work of another research group,  here I have attached the github link to their [Wikipedia project](https://github.com/AF-Cabouat/Wikipedia-Block-log)
 
 1 Fetch_Block_Log_data.ipynb It does:
 - Data scrapping
